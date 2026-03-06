@@ -125,7 +125,7 @@
 
 <div align="center">
 
-[![visits](https://visitcount.itsvg.in/api?id=colourfulplanets&icon=5&color=8)](https://visitcount.itsvg.in)
+![visitor count](https://komarev.com/ghpvc/?username=colourfulplanets&style=flat-square&color=FF79C6&label=visitors)
 
 *colourfulplanets 🌸 — chaotic good dev*
 
