@@ -95,7 +95,7 @@
 
 ### ✦ numbers go brrr ✦
 
-![stats](https://github-readme-stats.vercel.app/api?username=colourfulplanets&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&icon_color=C9B8FF&text_color=f8f8f2&ring_color=FF79C6&cache_seconds=86400)
+![stats](https://github-readme-stats-ten-eosin-62.vercel.app/api?username=colourfulplanets&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&icon_color=C9B8FF&text_color=f8f8f2&ring_color=FF79C6&cache_seconds=86400)
 
 ![streak](https://nirzak-streak-stats.vercel.app/?user=colourfulplanets&hide_border=true&background=0d0d1a&ring=FF79C6&fire=FFB3C6&currStreakLabel=C9B8FF&sideLabels=C9B8FF&dates=f8f8f2&currStreakNum=FF79C6&sideNums=FF79C6)
 
@@ -117,7 +117,7 @@
 
 ### ✦ what i code in most ✦
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colourfulplanets&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&text_color=f8f8f2&cache_seconds=86400)
+![langs](https://github-readme-stats-ten-eosin-62.vercel.app/api/top-langs/?username=colourfulplanets&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&text_color=f8f8f2&cache_seconds=86400)
 
 </div>
 
