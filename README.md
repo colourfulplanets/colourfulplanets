@@ -95,7 +95,7 @@
 
 ### ✦ numbers go brrr ✦
 
-![stats](https://github-readme-stats.vercel.app/api?username=colourfulplanets&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&icon_color=C9B8FF&text_color=f8f8f2&ring_color=FF79C6)
+![stats](https://github-readme-stats.vercel.app/api?username=colourfulplanets&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&icon_color=C9B8FF&text_color=f8f8f2&ring_color=FF79C6&cache_seconds=86400)
 
 ![streak](https://nirzak-streak-stats.vercel.app/?user=colourfulplanets&hide_border=true&background=0d0d1a&ring=FF79C6&fire=FFB3C6&currStreakLabel=C9B8FF&sideLabels=C9B8FF&dates=f8f8f2&currStreakNum=FF79C6&sideNums=FF79C6)
 
@@ -107,7 +107,7 @@
 
 ### ✦ shiny shelf ✦
 
-![trophies](https://github-profile-trophy.vercel.app/?username=colourfulplanets&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1)
+![trophies](https://github-profile-trophy.vercel.app/?username=colourfulplanets&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 </div>
 
@@ -115,9 +115,9 @@
 
 <div align="center">
 
-### ✦ repos i've touched ✦
+### ✦ what i code in most ✦
 
-![top repos](https://github-contributor-stats.vercel.app/api?username=colourfulplanets&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colourfulplanets&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=FF79C6&text_color=f8f8f2&cache_seconds=86400)
 
 </div>
 
