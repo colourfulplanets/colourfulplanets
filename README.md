@@ -107,7 +107,7 @@
 
 ### ✦ shiny shelf ✦
 
-![trophies](https://github-profile-trophy.vercel.app/?username=colourfulplanets&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
+![trophies](https://github-profile-trophy-xi-ecru.vercel.app/?username=colourfulplanets&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 </div>
 
