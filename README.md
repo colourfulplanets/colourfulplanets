@@ -9,6 +9,10 @@
 <br/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=99999&color=C9B8FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+mr.+cto+of+.host+%E2%9C%A6" alt="mr. cto of .host" />
+</div>
+
+<div align="center">
 
 ```
   ╔══════════════════════════════════════════════════╗
